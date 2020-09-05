@@ -1,6 +1,6 @@
-Alert System
+#Alert System
 
-The project has two files:
+##The project has two files:
 1. operator.py: code to be run at operator system
 2. department.py: code to be run at department system
 
